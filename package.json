@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.2.0",
+    "@discordjs/rest": "^1.2.0",
+    "@discordjs/voice": "^0.11.0",
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.5.0",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.10",
+    "node-fetch": "^3.2.6",
+    "node.js": "^0.0.1-security"
+  }
+}
